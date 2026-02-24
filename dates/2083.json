@@ -1,0 +1,1827 @@
+[
+    {
+        "id": 38821,
+        "english_date": "2026-04-14",
+        "nepali_date": "2083-01-01"
+    },
+    {
+        "id": 38822,
+        "english_date": "2026-04-15",
+        "nepali_date": "2083-01-02"
+    },
+    {
+        "id": 38823,
+        "english_date": "2026-04-16",
+        "nepali_date": "2083-01-03"
+    },
+    {
+        "id": 38824,
+        "english_date": "2026-04-17",
+        "nepali_date": "2083-01-04"
+    },
+    {
+        "id": 38825,
+        "english_date": "2026-04-18",
+        "nepali_date": "2083-01-05"
+    },
+    {
+        "id": 38826,
+        "english_date": "2026-04-19",
+        "nepali_date": "2083-01-06"
+    },
+    {
+        "id": 38827,
+        "english_date": "2026-04-20",
+        "nepali_date": "2083-01-07"
+    },
+    {
+        "id": 38828,
+        "english_date": "2026-04-21",
+        "nepali_date": "2083-01-08"
+    },
+    {
+        "id": 38829,
+        "english_date": "2026-04-22",
+        "nepali_date": "2083-01-09"
+    },
+    {
+        "id": 38830,
+        "english_date": "2026-04-23",
+        "nepali_date": "2083-01-10"
+    },
+    {
+        "id": 38831,
+        "english_date": "2026-04-24",
+        "nepali_date": "2083-01-11"
+    },
+    {
+        "id": 38832,
+        "english_date": "2026-04-25",
+        "nepali_date": "2083-01-12"
+    },
+    {
+        "id": 38833,
+        "english_date": "2026-04-26",
+        "nepali_date": "2083-01-13"
+    },
+    {
+        "id": 38834,
+        "english_date": "2026-04-27",
+        "nepali_date": "2083-01-14"
+    },
+    {
+        "id": 38835,
+        "english_date": "2026-04-28",
+        "nepali_date": "2083-01-15"
+    },
+    {
+        "id": 38836,
+        "english_date": "2026-04-29",
+        "nepali_date": "2083-01-16"
+    },
+    {
+        "id": 38837,
+        "english_date": "2026-04-30",
+        "nepali_date": "2083-01-17"
+    },
+    {
+        "id": 38838,
+        "english_date": "2026-05-01",
+        "nepali_date": "2083-01-18"
+    },
+    {
+        "id": 38839,
+        "english_date": "2026-05-02",
+        "nepali_date": "2083-01-19"
+    },
+    {
+        "id": 38840,
+        "english_date": "2026-05-03",
+        "nepali_date": "2083-01-20"
+    },
+    {
+        "id": 38841,
+        "english_date": "2026-05-04",
+        "nepali_date": "2083-01-21"
+    },
+    {
+        "id": 38842,
+        "english_date": "2026-05-05",
+        "nepali_date": "2083-01-22"
+    },
+    {
+        "id": 38843,
+        "english_date": "2026-05-06",
+        "nepali_date": "2083-01-23"
+    },
+    {
+        "id": 38844,
+        "english_date": "2026-05-07",
+        "nepali_date": "2083-01-24"
+    },
+    {
+        "id": 38845,
+        "english_date": "2026-05-08",
+        "nepali_date": "2083-01-25"
+    },
+    {
+        "id": 38846,
+        "english_date": "2026-05-09",
+        "nepali_date": "2083-01-26"
+    },
+    {
+        "id": 38847,
+        "english_date": "2026-05-10",
+        "nepali_date": "2083-01-27"
+    },
+    {
+        "id": 38848,
+        "english_date": "2026-05-11",
+        "nepali_date": "2083-01-28"
+    },
+    {
+        "id": 38849,
+        "english_date": "2026-05-12",
+        "nepali_date": "2083-01-29"
+    },
+    {
+        "id": 38850,
+        "english_date": "2026-05-13",
+        "nepali_date": "2083-01-30"
+    },
+    {
+        "id": 38851,
+        "english_date": "2026-05-14",
+        "nepali_date": "2083-01-31"
+    },
+    {
+        "id": 38852,
+        "english_date": "2026-05-15",
+        "nepali_date": "2083-02-01"
+    },
+    {
+        "id": 38853,
+        "english_date": "2026-05-16",
+        "nepali_date": "2083-02-02"
+    },
+    {
+        "id": 38854,
+        "english_date": "2026-05-17",
+        "nepali_date": "2083-02-03"
+    },
+    {
+        "id": 38855,
+        "english_date": "2026-05-18",
+        "nepali_date": "2083-02-04"
+    },
+    {
+        "id": 38856,
+        "english_date": "2026-05-19",
+        "nepali_date": "2083-02-05"
+    },
+    {
+        "id": 38857,
+        "english_date": "2026-05-20",
+        "nepali_date": "2083-02-06"
+    },
+    {
+        "id": 38858,
+        "english_date": "2026-05-21",
+        "nepali_date": "2083-02-07"
+    },
+    {
+        "id": 38859,
+        "english_date": "2026-05-22",
+        "nepali_date": "2083-02-08"
+    },
+    {
+        "id": 38860,
+        "english_date": "2026-05-23",
+        "nepali_date": "2083-02-09"
+    },
+    {
+        "id": 38861,
+        "english_date": "2026-05-24",
+        "nepali_date": "2083-02-10"
+    },
+    {
+        "id": 38862,
+        "english_date": "2026-05-25",
+        "nepali_date": "2083-02-11"
+    },
+    {
+        "id": 38863,
+        "english_date": "2026-05-26",
+        "nepali_date": "2083-02-12"
+    },
+    {
+        "id": 38864,
+        "english_date": "2026-05-27",
+        "nepali_date": "2083-02-13"
+    },
+    {
+        "id": 38865,
+        "english_date": "2026-05-28",
+        "nepali_date": "2083-02-14"
+    },
+    {
+        "id": 38866,
+        "english_date": "2026-05-29",
+        "nepali_date": "2083-02-15"
+    },
+    {
+        "id": 38867,
+        "english_date": "2026-05-30",
+        "nepali_date": "2083-02-16"
+    },
+    {
+        "id": 38868,
+        "english_date": "2026-05-31",
+        "nepali_date": "2083-02-17"
+    },
+    {
+        "id": 38869,
+        "english_date": "2026-06-01",
+        "nepali_date": "2083-02-18"
+    },
+    {
+        "id": 38870,
+        "english_date": "2026-06-02",
+        "nepali_date": "2083-02-19"
+    },
+    {
+        "id": 38871,
+        "english_date": "2026-06-03",
+        "nepali_date": "2083-02-20"
+    },
+    {
+        "id": 38872,
+        "english_date": "2026-06-04",
+        "nepali_date": "2083-02-21"
+    },
+    {
+        "id": 38873,
+        "english_date": "2026-06-05",
+        "nepali_date": "2083-02-22"
+    },
+    {
+        "id": 38874,
+        "english_date": "2026-06-06",
+        "nepali_date": "2083-02-23"
+    },
+    {
+        "id": 38875,
+        "english_date": "2026-06-07",
+        "nepali_date": "2083-02-24"
+    },
+    {
+        "id": 38876,
+        "english_date": "2026-06-08",
+        "nepali_date": "2083-02-25"
+    },
+    {
+        "id": 38877,
+        "english_date": "2026-06-09",
+        "nepali_date": "2083-02-26"
+    },
+    {
+        "id": 38878,
+        "english_date": "2026-06-10",
+        "nepali_date": "2083-02-27"
+    },
+    {
+        "id": 38879,
+        "english_date": "2026-06-11",
+        "nepali_date": "2083-02-28"
+    },
+    {
+        "id": 38880,
+        "english_date": "2026-06-12",
+        "nepali_date": "2083-02-29"
+    },
+    {
+        "id": 38881,
+        "english_date": "2026-06-13",
+        "nepali_date": "2083-02-30"
+    },
+    {
+        "id": 38882,
+        "english_date": "2026-06-14",
+        "nepali_date": "2083-02-31"
+    },
+    {
+        "id": 38883,
+        "english_date": "2026-06-15",
+        "nepali_date": "2083-03-01"
+    },
+    {
+        "id": 38884,
+        "english_date": "2026-06-16",
+        "nepali_date": "2083-03-02"
+    },
+    {
+        "id": 38885,
+        "english_date": "2026-06-17",
+        "nepali_date": "2083-03-03"
+    },
+    {
+        "id": 38886,
+        "english_date": "2026-06-18",
+        "nepali_date": "2083-03-04"
+    },
+    {
+        "id": 38887,
+        "english_date": "2026-06-19",
+        "nepali_date": "2083-03-05"
+    },
+    {
+        "id": 38888,
+        "english_date": "2026-06-20",
+        "nepali_date": "2083-03-06"
+    },
+    {
+        "id": 38889,
+        "english_date": "2026-06-21",
+        "nepali_date": "2083-03-07"
+    },
+    {
+        "id": 38890,
+        "english_date": "2026-06-22",
+        "nepali_date": "2083-03-08"
+    },
+    {
+        "id": 38891,
+        "english_date": "2026-06-23",
+        "nepali_date": "2083-03-09"
+    },
+    {
+        "id": 38892,
+        "english_date": "2026-06-24",
+        "nepali_date": "2083-03-10"
+    },
+    {
+        "id": 38893,
+        "english_date": "2026-06-25",
+        "nepali_date": "2083-03-11"
+    },
+    {
+        "id": 38894,
+        "english_date": "2026-06-26",
+        "nepali_date": "2083-03-12"
+    },
+    {
+        "id": 38895,
+        "english_date": "2026-06-27",
+        "nepali_date": "2083-03-13"
+    },
+    {
+        "id": 38896,
+        "english_date": "2026-06-28",
+        "nepali_date": "2083-03-14"
+    },
+    {
+        "id": 38897,
+        "english_date": "2026-06-29",
+        "nepali_date": "2083-03-15"
+    },
+    {
+        "id": 38898,
+        "english_date": "2026-06-30",
+        "nepali_date": "2083-03-16"
+    },
+    {
+        "id": 38899,
+        "english_date": "2026-07-01",
+        "nepali_date": "2083-03-17"
+    },
+    {
+        "id": 38900,
+        "english_date": "2026-07-02",
+        "nepali_date": "2083-03-18"
+    },
+    {
+        "id": 38901,
+        "english_date": "2026-07-03",
+        "nepali_date": "2083-03-19"
+    },
+    {
+        "id": 38902,
+        "english_date": "2026-07-04",
+        "nepali_date": "2083-03-20"
+    },
+    {
+        "id": 38903,
+        "english_date": "2026-07-05",
+        "nepali_date": "2083-03-21"
+    },
+    {
+        "id": 38904,
+        "english_date": "2026-07-06",
+        "nepali_date": "2083-03-22"
+    },
+    {
+        "id": 38905,
+        "english_date": "2026-07-07",
+        "nepali_date": "2083-03-23"
+    },
+    {
+        "id": 38906,
+        "english_date": "2026-07-08",
+        "nepali_date": "2083-03-24"
+    },
+    {
+        "id": 38907,
+        "english_date": "2026-07-09",
+        "nepali_date": "2083-03-25"
+    },
+    {
+        "id": 38908,
+        "english_date": "2026-07-10",
+        "nepali_date": "2083-03-26"
+    },
+    {
+        "id": 38909,
+        "english_date": "2026-07-11",
+        "nepali_date": "2083-03-27"
+    },
+    {
+        "id": 38910,
+        "english_date": "2026-07-12",
+        "nepali_date": "2083-03-28"
+    },
+    {
+        "id": 38911,
+        "english_date": "2026-07-13",
+        "nepali_date": "2083-03-29"
+    },
+    {
+        "id": 38912,
+        "english_date": "2026-07-14",
+        "nepali_date": "2083-03-30"
+    },
+    {
+        "id": 38913,
+        "english_date": "2026-07-15",
+        "nepali_date": "2083-03-31"
+    },
+    {
+        "id": 38914,
+        "english_date": "2026-07-16",
+        "nepali_date": "2083-03-32"
+    },
+    {
+        "id": 38915,
+        "english_date": "2026-07-17",
+        "nepali_date": "2083-04-01"
+    },
+    {
+        "id": 38916,
+        "english_date": "2026-07-18",
+        "nepali_date": "2083-04-02"
+    },
+    {
+        "id": 38917,
+        "english_date": "2026-07-19",
+        "nepali_date": "2083-04-03"
+    },
+    {
+        "id": 38918,
+        "english_date": "2026-07-20",
+        "nepali_date": "2083-04-04"
+    },
+    {
+        "id": 38919,
+        "english_date": "2026-07-21",
+        "nepali_date": "2083-04-05"
+    },
+    {
+        "id": 38920,
+        "english_date": "2026-07-22",
+        "nepali_date": "2083-04-06"
+    },
+    {
+        "id": 38921,
+        "english_date": "2026-07-23",
+        "nepali_date": "2083-04-07"
+    },
+    {
+        "id": 38922,
+        "english_date": "2026-07-24",
+        "nepali_date": "2083-04-08"
+    },
+    {
+        "id": 38923,
+        "english_date": "2026-07-25",
+        "nepali_date": "2083-04-09"
+    },
+    {
+        "id": 38924,
+        "english_date": "2026-07-26",
+        "nepali_date": "2083-04-10"
+    },
+    {
+        "id": 38925,
+        "english_date": "2026-07-27",
+        "nepali_date": "2083-04-11"
+    },
+    {
+        "id": 38926,
+        "english_date": "2026-07-28",
+        "nepali_date": "2083-04-12"
+    },
+    {
+        "id": 38927,
+        "english_date": "2026-07-29",
+        "nepali_date": "2083-04-13"
+    },
+    {
+        "id": 38928,
+        "english_date": "2026-07-30",
+        "nepali_date": "2083-04-14"
+    },
+    {
+        "id": 38929,
+        "english_date": "2026-07-31",
+        "nepali_date": "2083-04-15"
+    },
+    {
+        "id": 38930,
+        "english_date": "2026-08-01",
+        "nepali_date": "2083-04-16"
+    },
+    {
+        "id": 38931,
+        "english_date": "2026-08-02",
+        "nepali_date": "2083-04-17"
+    },
+    {
+        "id": 38932,
+        "english_date": "2026-08-03",
+        "nepali_date": "2083-04-18"
+    },
+    {
+        "id": 38933,
+        "english_date": "2026-08-04",
+        "nepali_date": "2083-04-19"
+    },
+    {
+        "id": 38934,
+        "english_date": "2026-08-05",
+        "nepali_date": "2083-04-20"
+    },
+    {
+        "id": 38935,
+        "english_date": "2026-08-06",
+        "nepali_date": "2083-04-21"
+    },
+    {
+        "id": 38936,
+        "english_date": "2026-08-07",
+        "nepali_date": "2083-04-22"
+    },
+    {
+        "id": 38937,
+        "english_date": "2026-08-08",
+        "nepali_date": "2083-04-23"
+    },
+    {
+        "id": 38938,
+        "english_date": "2026-08-09",
+        "nepali_date": "2083-04-24"
+    },
+    {
+        "id": 38939,
+        "english_date": "2026-08-10",
+        "nepali_date": "2083-04-25"
+    },
+    {
+        "id": 38940,
+        "english_date": "2026-08-11",
+        "nepali_date": "2083-04-26"
+    },
+    {
+        "id": 38941,
+        "english_date": "2026-08-12",
+        "nepali_date": "2083-04-27"
+    },
+    {
+        "id": 38942,
+        "english_date": "2026-08-13",
+        "nepali_date": "2083-04-28"
+    },
+    {
+        "id": 38943,
+        "english_date": "2026-08-14",
+        "nepali_date": "2083-04-29"
+    },
+    {
+        "id": 38944,
+        "english_date": "2026-08-15",
+        "nepali_date": "2083-04-30"
+    },
+    {
+        "id": 38945,
+        "english_date": "2026-08-16",
+        "nepali_date": "2083-04-31"
+    },
+    {
+        "id": 38946,
+        "english_date": "2026-08-17",
+        "nepali_date": "2083-05-01"
+    },
+    {
+        "id": 38947,
+        "english_date": "2026-08-18",
+        "nepali_date": "2083-05-02"
+    },
+    {
+        "id": 38948,
+        "english_date": "2026-08-19",
+        "nepali_date": "2083-05-03"
+    },
+    {
+        "id": 38949,
+        "english_date": "2026-08-20",
+        "nepali_date": "2083-05-04"
+    },
+    {
+        "id": 38950,
+        "english_date": "2026-08-21",
+        "nepali_date": "2083-05-05"
+    },
+    {
+        "id": 38951,
+        "english_date": "2026-08-22",
+        "nepali_date": "2083-05-06"
+    },
+    {
+        "id": 38952,
+        "english_date": "2026-08-23",
+        "nepali_date": "2083-05-07"
+    },
+    {
+        "id": 38953,
+        "english_date": "2026-08-24",
+        "nepali_date": "2083-05-08"
+    },
+    {
+        "id": 38954,
+        "english_date": "2026-08-25",
+        "nepali_date": "2083-05-09"
+    },
+    {
+        "id": 38955,
+        "english_date": "2026-08-26",
+        "nepali_date": "2083-05-10"
+    },
+    {
+        "id": 38956,
+        "english_date": "2026-08-27",
+        "nepali_date": "2083-05-11"
+    },
+    {
+        "id": 38957,
+        "english_date": "2026-08-28",
+        "nepali_date": "2083-05-12"
+    },
+    {
+        "id": 38958,
+        "english_date": "2026-08-29",
+        "nepali_date": "2083-05-13"
+    },
+    {
+        "id": 38959,
+        "english_date": "2026-08-30",
+        "nepali_date": "2083-05-14"
+    },
+    {
+        "id": 38960,
+        "english_date": "2026-08-31",
+        "nepali_date": "2083-05-15"
+    },
+    {
+        "id": 38961,
+        "english_date": "2026-09-01",
+        "nepali_date": "2083-05-16"
+    },
+    {
+        "id": 38962,
+        "english_date": "2026-09-02",
+        "nepali_date": "2083-05-17"
+    },
+    {
+        "id": 38963,
+        "english_date": "2026-09-03",
+        "nepali_date": "2083-05-18"
+    },
+    {
+        "id": 38964,
+        "english_date": "2026-09-04",
+        "nepali_date": "2083-05-19"
+    },
+    {
+        "id": 38965,
+        "english_date": "2026-09-05",
+        "nepali_date": "2083-05-20"
+    },
+    {
+        "id": 38966,
+        "english_date": "2026-09-06",
+        "nepali_date": "2083-05-21"
+    },
+    {
+        "id": 38967,
+        "english_date": "2026-09-07",
+        "nepali_date": "2083-05-22"
+    },
+    {
+        "id": 38968,
+        "english_date": "2026-09-08",
+        "nepali_date": "2083-05-23"
+    },
+    {
+        "id": 38969,
+        "english_date": "2026-09-09",
+        "nepali_date": "2083-05-24"
+    },
+    {
+        "id": 38970,
+        "english_date": "2026-09-10",
+        "nepali_date": "2083-05-25"
+    },
+    {
+        "id": 38971,
+        "english_date": "2026-09-11",
+        "nepali_date": "2083-05-26"
+    },
+    {
+        "id": 38972,
+        "english_date": "2026-09-12",
+        "nepali_date": "2083-05-27"
+    },
+    {
+        "id": 38973,
+        "english_date": "2026-09-13",
+        "nepali_date": "2083-05-28"
+    },
+    {
+        "id": 38974,
+        "english_date": "2026-09-14",
+        "nepali_date": "2083-05-29"
+    },
+    {
+        "id": 38975,
+        "english_date": "2026-09-15",
+        "nepali_date": "2083-05-30"
+    },
+    {
+        "id": 38976,
+        "english_date": "2026-09-16",
+        "nepali_date": "2083-05-31"
+    },
+    {
+        "id": 38977,
+        "english_date": "2026-09-17",
+        "nepali_date": "2083-06-01"
+    },
+    {
+        "id": 38978,
+        "english_date": "2026-09-18",
+        "nepali_date": "2083-06-02"
+    },
+    {
+        "id": 38979,
+        "english_date": "2026-09-19",
+        "nepali_date": "2083-06-03"
+    },
+    {
+        "id": 38980,
+        "english_date": "2026-09-20",
+        "nepali_date": "2083-06-04"
+    },
+    {
+        "id": 38981,
+        "english_date": "2026-09-21",
+        "nepali_date": "2083-06-05"
+    },
+    {
+        "id": 38982,
+        "english_date": "2026-09-22",
+        "nepali_date": "2083-06-06"
+    },
+    {
+        "id": 38983,
+        "english_date": "2026-09-23",
+        "nepali_date": "2083-06-07"
+    },
+    {
+        "id": 38984,
+        "english_date": "2026-09-24",
+        "nepali_date": "2083-06-08"
+    },
+    {
+        "id": 38985,
+        "english_date": "2026-09-25",
+        "nepali_date": "2083-06-09"
+    },
+    {
+        "id": 38986,
+        "english_date": "2026-09-26",
+        "nepali_date": "2083-06-10"
+    },
+    {
+        "id": 38987,
+        "english_date": "2026-09-27",
+        "nepali_date": "2083-06-11"
+    },
+    {
+        "id": 38988,
+        "english_date": "2026-09-28",
+        "nepali_date": "2083-06-12"
+    },
+    {
+        "id": 38989,
+        "english_date": "2026-09-29",
+        "nepali_date": "2083-06-13"
+    },
+    {
+        "id": 38990,
+        "english_date": "2026-09-30",
+        "nepali_date": "2083-06-14"
+    },
+    {
+        "id": 38991,
+        "english_date": "2026-10-01",
+        "nepali_date": "2083-06-15"
+    },
+    {
+        "id": 38992,
+        "english_date": "2026-10-02",
+        "nepali_date": "2083-06-16"
+    },
+    {
+        "id": 38993,
+        "english_date": "2026-10-03",
+        "nepali_date": "2083-06-17"
+    },
+    {
+        "id": 38994,
+        "english_date": "2026-10-04",
+        "nepali_date": "2083-06-18"
+    },
+    {
+        "id": 38995,
+        "english_date": "2026-10-05",
+        "nepali_date": "2083-06-19"
+    },
+    {
+        "id": 38996,
+        "english_date": "2026-10-06",
+        "nepali_date": "2083-06-20"
+    },
+    {
+        "id": 38997,
+        "english_date": "2026-10-07",
+        "nepali_date": "2083-06-21"
+    },
+    {
+        "id": 38998,
+        "english_date": "2026-10-08",
+        "nepali_date": "2083-06-22"
+    },
+    {
+        "id": 38999,
+        "english_date": "2026-10-09",
+        "nepali_date": "2083-06-23"
+    },
+    {
+        "id": 39000,
+        "english_date": "2026-10-10",
+        "nepali_date": "2083-06-24"
+    },
+    {
+        "id": 39001,
+        "english_date": "2026-10-11",
+        "nepali_date": "2083-06-25"
+    },
+    {
+        "id": 39002,
+        "english_date": "2026-10-12",
+        "nepali_date": "2083-06-26"
+    },
+    {
+        "id": 39003,
+        "english_date": "2026-10-13",
+        "nepali_date": "2083-06-27"
+    },
+    {
+        "id": 39004,
+        "english_date": "2026-10-14",
+        "nepali_date": "2083-06-28"
+    },
+    {
+        "id": 39005,
+        "english_date": "2026-10-15",
+        "nepali_date": "2083-06-29"
+    },
+    {
+        "id": 39006,
+        "english_date": "2026-10-16",
+        "nepali_date": "2083-06-30"
+    },
+    {
+        "id": 39007,
+        "english_date": "2026-10-17",
+        "nepali_date": "2083-07-01"
+    },
+    {
+        "id": 39008,
+        "english_date": "2026-10-18",
+        "nepali_date": "2083-07-02"
+    },
+    {
+        "id": 39009,
+        "english_date": "2026-10-19",
+        "nepali_date": "2083-07-03"
+    },
+    {
+        "id": 39010,
+        "english_date": "2026-10-20",
+        "nepali_date": "2083-07-04"
+    },
+    {
+        "id": 39011,
+        "english_date": "2026-10-21",
+        "nepali_date": "2083-07-05"
+    },
+    {
+        "id": 39012,
+        "english_date": "2026-10-22",
+        "nepali_date": "2083-07-06"
+    },
+    {
+        "id": 39013,
+        "english_date": "2026-10-23",
+        "nepali_date": "2083-07-07"
+    },
+    {
+        "id": 39014,
+        "english_date": "2026-10-24",
+        "nepali_date": "2083-07-08"
+    },
+    {
+        "id": 39015,
+        "english_date": "2026-10-25",
+        "nepali_date": "2083-07-09"
+    },
+    {
+        "id": 39016,
+        "english_date": "2026-10-26",
+        "nepali_date": "2083-07-10"
+    },
+    {
+        "id": 39017,
+        "english_date": "2026-10-27",
+        "nepali_date": "2083-07-11"
+    },
+    {
+        "id": 39018,
+        "english_date": "2026-10-28",
+        "nepali_date": "2083-07-12"
+    },
+    {
+        "id": 39019,
+        "english_date": "2026-10-29",
+        "nepali_date": "2083-07-13"
+    },
+    {
+        "id": 39020,
+        "english_date": "2026-10-30",
+        "nepali_date": "2083-07-14"
+    },
+    {
+        "id": 39021,
+        "english_date": "2026-10-31",
+        "nepali_date": "2083-07-15"
+    },
+    {
+        "id": 39022,
+        "english_date": "2026-11-01",
+        "nepali_date": "2083-07-16"
+    },
+    {
+        "id": 39023,
+        "english_date": "2026-11-02",
+        "nepali_date": "2083-07-17"
+    },
+    {
+        "id": 39024,
+        "english_date": "2026-11-03",
+        "nepali_date": "2083-07-18"
+    },
+    {
+        "id": 39025,
+        "english_date": "2026-11-04",
+        "nepali_date": "2083-07-19"
+    },
+    {
+        "id": 39026,
+        "english_date": "2026-11-05",
+        "nepali_date": "2083-07-20"
+    },
+    {
+        "id": 39027,
+        "english_date": "2026-11-06",
+        "nepali_date": "2083-07-21"
+    },
+    {
+        "id": 39028,
+        "english_date": "2026-11-07",
+        "nepali_date": "2083-07-22"
+    },
+    {
+        "id": 39029,
+        "english_date": "2026-11-08",
+        "nepali_date": "2083-07-23"
+    },
+    {
+        "id": 39030,
+        "english_date": "2026-11-09",
+        "nepali_date": "2083-07-24"
+    },
+    {
+        "id": 39031,
+        "english_date": "2026-11-10",
+        "nepali_date": "2083-07-25"
+    },
+    {
+        "id": 39032,
+        "english_date": "2026-11-11",
+        "nepali_date": "2083-07-26"
+    },
+    {
+        "id": 39033,
+        "english_date": "2026-11-12",
+        "nepali_date": "2083-07-27"
+    },
+    {
+        "id": 39034,
+        "english_date": "2026-11-13",
+        "nepali_date": "2083-07-28"
+    },
+    {
+        "id": 39035,
+        "english_date": "2026-11-14",
+        "nepali_date": "2083-07-29"
+    },
+    {
+        "id": 39036,
+        "english_date": "2026-11-15",
+        "nepali_date": "2083-07-30"
+    },
+    {
+        "id": 39037,
+        "english_date": "2026-11-16",
+        "nepali_date": "2083-08-01"
+    },
+    {
+        "id": 39038,
+        "english_date": "2026-11-17",
+        "nepali_date": "2083-08-02"
+    },
+    {
+        "id": 39039,
+        "english_date": "2026-11-18",
+        "nepali_date": "2083-08-03"
+    },
+    {
+        "id": 39040,
+        "english_date": "2026-11-19",
+        "nepali_date": "2083-08-04"
+    },
+    {
+        "id": 39041,
+        "english_date": "2026-11-20",
+        "nepali_date": "2083-08-05"
+    },
+    {
+        "id": 39042,
+        "english_date": "2026-11-21",
+        "nepali_date": "2083-08-06"
+    },
+    {
+        "id": 39043,
+        "english_date": "2026-11-22",
+        "nepali_date": "2083-08-07"
+    },
+    {
+        "id": 39044,
+        "english_date": "2026-11-23",
+        "nepali_date": "2083-08-08"
+    },
+    {
+        "id": 39045,
+        "english_date": "2026-11-24",
+        "nepali_date": "2083-08-09"
+    },
+    {
+        "id": 39046,
+        "english_date": "2026-11-25",
+        "nepali_date": "2083-08-10"
+    },
+    {
+        "id": 39047,
+        "english_date": "2026-11-26",
+        "nepali_date": "2083-08-11"
+    },
+    {
+        "id": 39048,
+        "english_date": "2026-11-27",
+        "nepali_date": "2083-08-12"
+    },
+    {
+        "id": 39049,
+        "english_date": "2026-11-28",
+        "nepali_date": "2083-08-13"
+    },
+    {
+        "id": 39050,
+        "english_date": "2026-11-29",
+        "nepali_date": "2083-08-14"
+    },
+    {
+        "id": 39051,
+        "english_date": "2026-11-30",
+        "nepali_date": "2083-08-15"
+    },
+    {
+        "id": 39052,
+        "english_date": "2026-12-01",
+        "nepali_date": "2083-08-16"
+    },
+    {
+        "id": 39053,
+        "english_date": "2026-12-02",
+        "nepali_date": "2083-08-17"
+    },
+    {
+        "id": 39054,
+        "english_date": "2026-12-03",
+        "nepali_date": "2083-08-18"
+    },
+    {
+        "id": 39055,
+        "english_date": "2026-12-04",
+        "nepali_date": "2083-08-19"
+    },
+    {
+        "id": 39056,
+        "english_date": "2026-12-05",
+        "nepali_date": "2083-08-20"
+    },
+    {
+        "id": 39057,
+        "english_date": "2026-12-06",
+        "nepali_date": "2083-08-21"
+    },
+    {
+        "id": 39058,
+        "english_date": "2026-12-07",
+        "nepali_date": "2083-08-22"
+    },
+    {
+        "id": 39059,
+        "english_date": "2026-12-08",
+        "nepali_date": "2083-08-23"
+    },
+    {
+        "id": 39060,
+        "english_date": "2026-12-09",
+        "nepali_date": "2083-08-24"
+    },
+    {
+        "id": 39061,
+        "english_date": "2026-12-10",
+        "nepali_date": "2083-08-25"
+    },
+    {
+        "id": 39062,
+        "english_date": "2026-12-11",
+        "nepali_date": "2083-08-26"
+    },
+    {
+        "id": 39063,
+        "english_date": "2026-12-12",
+        "nepali_date": "2083-08-27"
+    },
+    {
+        "id": 39064,
+        "english_date": "2026-12-13",
+        "nepali_date": "2083-08-28"
+    },
+    {
+        "id": 39065,
+        "english_date": "2026-12-14",
+        "nepali_date": "2083-08-29"
+    },
+    {
+        "id": 39066,
+        "english_date": "2026-12-15",
+        "nepali_date": "2083-08-30"
+    },
+    {
+        "id": 39067,
+        "english_date": "2026-12-16",
+        "nepali_date": "2083-09-01"
+    },
+    {
+        "id": 39068,
+        "english_date": "2026-12-17",
+        "nepali_date": "2083-09-02"
+    },
+    {
+        "id": 39069,
+        "english_date": "2026-12-18",
+        "nepali_date": "2083-09-03"
+    },
+    {
+        "id": 39070,
+        "english_date": "2026-12-19",
+        "nepali_date": "2083-09-04"
+    },
+    {
+        "id": 39071,
+        "english_date": "2026-12-20",
+        "nepali_date": "2083-09-05"
+    },
+    {
+        "id": 39072,
+        "english_date": "2026-12-21",
+        "nepali_date": "2083-09-06"
+    },
+    {
+        "id": 39073,
+        "english_date": "2026-12-22",
+        "nepali_date": "2083-09-07"
+    },
+    {
+        "id": 39074,
+        "english_date": "2026-12-23",
+        "nepali_date": "2083-09-08"
+    },
+    {
+        "id": 39075,
+        "english_date": "2026-12-24",
+        "nepali_date": "2083-09-09"
+    },
+    {
+        "id": 39076,
+        "english_date": "2026-12-25",
+        "nepali_date": "2083-09-10"
+    },
+    {
+        "id": 39077,
+        "english_date": "2026-12-26",
+        "nepali_date": "2083-09-11"
+    },
+    {
+        "id": 39078,
+        "english_date": "2026-12-27",
+        "nepali_date": "2083-09-12"
+    },
+    {
+        "id": 39079,
+        "english_date": "2026-12-28",
+        "nepali_date": "2083-09-13"
+    },
+    {
+        "id": 39080,
+        "english_date": "2026-12-29",
+        "nepali_date": "2083-09-14"
+    },
+    {
+        "id": 39081,
+        "english_date": "2026-12-30",
+        "nepali_date": "2083-09-15"
+    },
+    {
+        "id": 39082,
+        "english_date": "2026-12-31",
+        "nepali_date": "2083-09-16"
+    },
+    {
+        "id": 39083,
+        "english_date": "2027-01-01",
+        "nepali_date": "2083-09-17"
+    },
+    {
+        "id": 39084,
+        "english_date": "2027-01-02",
+        "nepali_date": "2083-09-18"
+    },
+    {
+        "id": 39085,
+        "english_date": "2027-01-03",
+        "nepali_date": "2083-09-19"
+    },
+    {
+        "id": 39086,
+        "english_date": "2027-01-04",
+        "nepali_date": "2083-09-20"
+    },
+    {
+        "id": 39087,
+        "english_date": "2027-01-05",
+        "nepali_date": "2083-09-21"
+    },
+    {
+        "id": 39088,
+        "english_date": "2027-01-06",
+        "nepali_date": "2083-09-22"
+    },
+    {
+        "id": 39089,
+        "english_date": "2027-01-07",
+        "nepali_date": "2083-09-23"
+    },
+    {
+        "id": 39090,
+        "english_date": "2027-01-08",
+        "nepali_date": "2083-09-24"
+    },
+    {
+        "id": 39091,
+        "english_date": "2027-01-09",
+        "nepali_date": "2083-09-25"
+    },
+    {
+        "id": 39092,
+        "english_date": "2027-01-10",
+        "nepali_date": "2083-09-26"
+    },
+    {
+        "id": 39093,
+        "english_date": "2027-01-11",
+        "nepali_date": "2083-09-27"
+    },
+    {
+        "id": 39094,
+        "english_date": "2027-01-12",
+        "nepali_date": "2083-09-28"
+    },
+    {
+        "id": 39095,
+        "english_date": "2027-01-13",
+        "nepali_date": "2083-09-29"
+    },
+    {
+        "id": 39096,
+        "english_date": "2027-01-14",
+        "nepali_date": "2083-10-01"
+    },
+    {
+        "id": 39097,
+        "english_date": "2027-01-15",
+        "nepali_date": "2083-10-02"
+    },
+    {
+        "id": 39098,
+        "english_date": "2027-01-16",
+        "nepali_date": "2083-10-03"
+    },
+    {
+        "id": 39099,
+        "english_date": "2027-01-17",
+        "nepali_date": "2083-10-04"
+    },
+    {
+        "id": 39100,
+        "english_date": "2027-01-18",
+        "nepali_date": "2083-10-05"
+    },
+    {
+        "id": 39101,
+        "english_date": "2027-01-19",
+        "nepali_date": "2083-10-06"
+    },
+    {
+        "id": 39102,
+        "english_date": "2027-01-20",
+        "nepali_date": "2083-10-07"
+    },
+    {
+        "id": 39103,
+        "english_date": "2027-01-21",
+        "nepali_date": "2083-10-08"
+    },
+    {
+        "id": 39104,
+        "english_date": "2027-01-22",
+        "nepali_date": "2083-10-09"
+    },
+    {
+        "id": 39105,
+        "english_date": "2027-01-23",
+        "nepali_date": "2083-10-10"
+    },
+    {
+        "id": 39106,
+        "english_date": "2027-01-24",
+        "nepali_date": "2083-10-11"
+    },
+    {
+        "id": 39107,
+        "english_date": "2027-01-25",
+        "nepali_date": "2083-10-12"
+    },
+    {
+        "id": 39108,
+        "english_date": "2027-01-26",
+        "nepali_date": "2083-10-13"
+    },
+    {
+        "id": 39109,
+        "english_date": "2027-01-27",
+        "nepali_date": "2083-10-14"
+    },
+    {
+        "id": 39110,
+        "english_date": "2027-01-28",
+        "nepali_date": "2083-10-15"
+    },
+    {
+        "id": 39111,
+        "english_date": "2027-01-29",
+        "nepali_date": "2083-10-16"
+    },
+    {
+        "id": 39112,
+        "english_date": "2027-01-30",
+        "nepali_date": "2083-10-17"
+    },
+    {
+        "id": 39113,
+        "english_date": "2027-01-31",
+        "nepali_date": "2083-10-18"
+    },
+    {
+        "id": 39114,
+        "english_date": "2027-02-01",
+        "nepali_date": "2083-10-19"
+    },
+    {
+        "id": 39115,
+        "english_date": "2027-02-02",
+        "nepali_date": "2083-10-20"
+    },
+    {
+        "id": 39116,
+        "english_date": "2027-02-03",
+        "nepali_date": "2083-10-21"
+    },
+    {
+        "id": 39117,
+        "english_date": "2027-02-04",
+        "nepali_date": "2083-10-22"
+    },
+    {
+        "id": 39118,
+        "english_date": "2027-02-05",
+        "nepali_date": "2083-10-23"
+    },
+    {
+        "id": 39119,
+        "english_date": "2027-02-06",
+        "nepali_date": "2083-10-24"
+    },
+    {
+        "id": 39120,
+        "english_date": "2027-02-07",
+        "nepali_date": "2083-10-25"
+    },
+    {
+        "id": 39121,
+        "english_date": "2027-02-08",
+        "nepali_date": "2083-10-26"
+    },
+    {
+        "id": 39122,
+        "english_date": "2027-02-09",
+        "nepali_date": "2083-10-27"
+    },
+    {
+        "id": 39123,
+        "english_date": "2027-02-10",
+        "nepali_date": "2083-10-28"
+    },
+    {
+        "id": 39124,
+        "english_date": "2027-02-11",
+        "nepali_date": "2083-10-29"
+    },
+    {
+        "id": 39125,
+        "english_date": "2027-02-12",
+        "nepali_date": "2083-10-30"
+    },
+    {
+        "id": 39126,
+        "english_date": "2027-02-13",
+        "nepali_date": "2083-11-01"
+    },
+    {
+        "id": 39127,
+        "english_date": "2027-02-14",
+        "nepali_date": "2083-11-02"
+    },
+    {
+        "id": 39128,
+        "english_date": "2027-02-15",
+        "nepali_date": "2083-11-03"
+    },
+    {
+        "id": 39129,
+        "english_date": "2027-02-16",
+        "nepali_date": "2083-11-04"
+    },
+    {
+        "id": 39130,
+        "english_date": "2027-02-17",
+        "nepali_date": "2083-11-05"
+    },
+    {
+        "id": 39131,
+        "english_date": "2027-02-18",
+        "nepali_date": "2083-11-06"
+    },
+    {
+        "id": 39132,
+        "english_date": "2027-02-19",
+        "nepali_date": "2083-11-07"
+    },
+    {
+        "id": 39133,
+        "english_date": "2027-02-20",
+        "nepali_date": "2083-11-08"
+    },
+    {
+        "id": 39134,
+        "english_date": "2027-02-21",
+        "nepali_date": "2083-11-09"
+    },
+    {
+        "id": 39135,
+        "english_date": "2027-02-22",
+        "nepali_date": "2083-11-10"
+    },
+    {
+        "id": 39136,
+        "english_date": "2027-02-23",
+        "nepali_date": "2083-11-11"
+    },
+    {
+        "id": 39137,
+        "english_date": "2027-02-24",
+        "nepali_date": "2083-11-12"
+    },
+    {
+        "id": 39138,
+        "english_date": "2027-02-25",
+        "nepali_date": "2083-11-13"
+    },
+    {
+        "id": 39139,
+        "english_date": "2027-02-26",
+        "nepali_date": "2083-11-14"
+    },
+    {
+        "id": 39140,
+        "english_date": "2027-02-27",
+        "nepali_date": "2083-11-15"
+    },
+    {
+        "id": 39141,
+        "english_date": "2027-02-28",
+        "nepali_date": "2083-11-16"
+    },
+    {
+        "id": 39142,
+        "english_date": "2027-03-01",
+        "nepali_date": "2083-11-17"
+    },
+    {
+        "id": 39143,
+        "english_date": "2027-03-02",
+        "nepali_date": "2083-11-18"
+    },
+    {
+        "id": 39144,
+        "english_date": "2027-03-03",
+        "nepali_date": "2083-11-19"
+    },
+    {
+        "id": 39145,
+        "english_date": "2027-03-04",
+        "nepali_date": "2083-11-20"
+    },
+    {
+        "id": 39146,
+        "english_date": "2027-03-05",
+        "nepali_date": "2083-11-21"
+    },
+    {
+        "id": 39147,
+        "english_date": "2027-03-06",
+        "nepali_date": "2083-11-22"
+    },
+    {
+        "id": 39148,
+        "english_date": "2027-03-07",
+        "nepali_date": "2083-11-23"
+    },
+    {
+        "id": 39149,
+        "english_date": "2027-03-08",
+        "nepali_date": "2083-11-24"
+    },
+    {
+        "id": 39150,
+        "english_date": "2027-03-09",
+        "nepali_date": "2083-11-25"
+    },
+    {
+        "id": 39151,
+        "english_date": "2027-03-10",
+        "nepali_date": "2083-11-26"
+    },
+    {
+        "id": 39152,
+        "english_date": "2027-03-11",
+        "nepali_date": "2083-11-27"
+    },
+    {
+        "id": 39153,
+        "english_date": "2027-03-12",
+        "nepali_date": "2083-11-28"
+    },
+    {
+        "id": 39154,
+        "english_date": "2027-03-13",
+        "nepali_date": "2083-11-29"
+    },
+    {
+        "id": 39155,
+        "english_date": "2027-03-14",
+        "nepali_date": "2083-11-30"
+    },
+    {
+        "id": 39156,
+        "english_date": "2027-03-15",
+        "nepali_date": "2083-12-01"
+    },
+    {
+        "id": 39157,
+        "english_date": "2027-03-16",
+        "nepali_date": "2083-12-02"
+    },
+    {
+        "id": 39158,
+        "english_date": "2027-03-17",
+        "nepali_date": "2083-12-03"
+    },
+    {
+        "id": 39159,
+        "english_date": "2027-03-18",
+        "nepali_date": "2083-12-04"
+    },
+    {
+        "id": 39160,
+        "english_date": "2027-03-19",
+        "nepali_date": "2083-12-05"
+    },
+    {
+        "id": 39161,
+        "english_date": "2027-03-20",
+        "nepali_date": "2083-12-06"
+    },
+    {
+        "id": 39162,
+        "english_date": "2027-03-21",
+        "nepali_date": "2083-12-07"
+    },
+    {
+        "id": 39163,
+        "english_date": "2027-03-22",
+        "nepali_date": "2083-12-08"
+    },
+    {
+        "id": 39164,
+        "english_date": "2027-03-23",
+        "nepali_date": "2083-12-09"
+    },
+    {
+        "id": 39165,
+        "english_date": "2027-03-24",
+        "nepali_date": "2083-12-10"
+    },
+    {
+        "id": 39166,
+        "english_date": "2027-03-25",
+        "nepali_date": "2083-12-11"
+    },
+    {
+        "id": 39167,
+        "english_date": "2027-03-26",
+        "nepali_date": "2083-12-12"
+    },
+    {
+        "id": 39168,
+        "english_date": "2027-03-27",
+        "nepali_date": "2083-12-13"
+    },
+    {
+        "id": 39169,
+        "english_date": "2027-03-28",
+        "nepali_date": "2083-12-14"
+    },
+    {
+        "id": 39170,
+        "english_date": "2027-03-29",
+        "nepali_date": "2083-12-15"
+    },
+    {
+        "id": 39171,
+        "english_date": "2027-03-30",
+        "nepali_date": "2083-12-16"
+    },
+    {
+        "id": 39172,
+        "english_date": "2027-03-31",
+        "nepali_date": "2083-12-17"
+    },
+    {
+        "id": 39173,
+        "english_date": "2027-04-01",
+        "nepali_date": "2083-12-18"
+    },
+    {
+        "id": 39174,
+        "english_date": "2027-04-02",
+        "nepali_date": "2083-12-19"
+    },
+    {
+        "id": 39175,
+        "english_date": "2027-04-03",
+        "nepali_date": "2083-12-20"
+    },
+    {
+        "id": 39176,
+        "english_date": "2027-04-04",
+        "nepali_date": "2083-12-21"
+    },
+    {
+        "id": 39177,
+        "english_date": "2027-04-05",
+        "nepali_date": "2083-12-22"
+    },
+    {
+        "id": 39178,
+        "english_date": "2027-04-06",
+        "nepali_date": "2083-12-23"
+    },
+    {
+        "id": 39179,
+        "english_date": "2027-04-07",
+        "nepali_date": "2083-12-24"
+    },
+    {
+        "id": 39180,
+        "english_date": "2027-04-08",
+        "nepali_date": "2083-12-25"
+    },
+    {
+        "id": 39181,
+        "english_date": "2027-04-09",
+        "nepali_date": "2083-12-26"
+    },
+    {
+        "id": 39182,
+        "english_date": "2027-04-10",
+        "nepali_date": "2083-12-27"
+    },
+    {
+        "id": 39183,
+        "english_date": "2027-04-11",
+        "nepali_date": "2083-12-28"
+    },
+    {
+        "id": 39184,
+        "english_date": "2027-04-12",
+        "nepali_date": "2083-12-29"
+    },
+    {
+        "id": 39185,
+        "english_date": "2027-04-13",
+        "nepali_date": "2083-12-30"
+    }
+]

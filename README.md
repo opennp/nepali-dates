@@ -23,6 +23,34 @@ Data is provided as a flat JSON array for absolute simplicity and O(1) database 
 ]
 ```
 
+## Suggested Database Schema
+
+To get the absolute best performance (O(1) lookups) and to ensure our integration scripts can safely upsert data without creating duplicates, we highly recommend the following relational database structure.
+
+Notice that english_date is strictly a DATE type with a UNIQUE index.
+### SQL Definition
+
+```SQL
+
+CREATE TABLE nepali_dates (
+    id BIGINT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    english_date DATE NOT NULL UNIQUE,
+    nepali_date VARCHAR(10) NOT NULL
+);
+```
+
+### Table Structure
+```Plaintext
+
++--------------+-----------------+------+-----+---------+----------------+
+| Field        | Type            | Null | Key | Default | Extra          |
++--------------+-----------------+------+-----+---------+----------------+
+| id           | bigint unsigned | NO   | PRI | NULL    | auto_increment |
+| english_date | date            | NO   | UNI | NULL    |                |
+| nepali_date  | varchar(10)     | NO   |     | NULL    |                |
++--------------+-----------------+------+-----+---------+----------------+
+```
+
 ## Usage & Contributing
 
 Consume: Build your language-specific wrappers (Laravel, Node, etc.) to seed this JSON array directly into a local database table.

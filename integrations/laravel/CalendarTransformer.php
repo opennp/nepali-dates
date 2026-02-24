@@ -17,14 +17,14 @@ class CalendarTransformer{
                 ->orderBy('english_date', 'asc')
                 ->get();
 
-            return $this->transformToYearlyFormat($dates);
+            return static::transformToYearlyFormat($dates);
         });
     }
 
      /**
      * Get calendar metadata based on a Bikram Sambat (B.S.) year range.
      */
-    public function getMetadataByNepaliYearRange($startYear, $endYear)
+    public static function getMetadataByNepaliYearRange($startYear, $endYear)
     {
         $cacheKey = "calendar_np_range_{$startYear}_{$endYear}";
 
@@ -34,14 +34,14 @@ class CalendarTransformer{
                 ->orderBy('english_date', 'asc')
                 ->get();
 
-            return $this->transformToYearlyFormat($dates);
+            return static::transformToYearlyFormat($dates);
         });
     }
 
      /**
      * Transforms a flat collection of dates into a compact yearly metadata structure.
      */
-    private function transformToYearlyFormat($dates)
+    public static function transformToYearlyFormat($dates)
     {
         if ($dates->isEmpty()) return [];
 
